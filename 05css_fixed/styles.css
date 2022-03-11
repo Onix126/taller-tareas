@@ -1,0 +1,17 @@
+.body {
+    background-color: bisque;
+}
+
+.div1 {
+    position: fixed;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 1350px;
+    height: 40px;
+    background-color: rgb(235, 211, 160);
+}
+
+.div2 {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}

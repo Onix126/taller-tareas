@@ -1,0 +1,99 @@
+.body {
+    background-color: peru;
+}
+
+.cabecera {
+    position: static;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 0px;
+}
+
+.cabecera1 {
+    position: relative;
+    left: 700px;
+    bottom: 360px;
+}
+
+.stilo1 {
+    position: relative;
+    left: 20px;
+    border: 3px dashed red;
+    height: 260px;
+    width: 260px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.stilo2 {
+    position: relative;
+    left: 650px;
+    bottom: 365px;
+    border: 3px dashed red;
+    height: 260px;
+    width: 260px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.div {
+    position: relative;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+}
+
+.div2 {
+    position: relative;
+    background-color: aqua;
+    width: 50px;
+    height: 40px;
+}
+
+.div3 {
+    position: relative;
+    background-color: yellowgreen;
+    width: 50px;
+    height: 40px;
+}
+
+.div4 {
+    position: relative;
+    width: 50px;
+    height: 40px;
+    background-color: red;
+}
+
+.div5 {
+    position: relative;
+    top: 180px;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+}
+
+.div6 {
+    position: relative;
+    left: 200px;
+    top: 120px;
+    background-color: aqua;
+    width: 50px;
+    height: 40px;
+}
+
+.div7 {
+    position: relative;
+    left: 200px;
+    bottom: 120px;
+    background-color: yellowgreen;
+    width: 50px;
+    height: 40px;
+}
+
+.div8 {
+    position: relative;
+    bottom: 180px;
+    width: 50px;
+    height: 40px;
+    background-color: red;
+}

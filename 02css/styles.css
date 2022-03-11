@@ -1,0 +1,22 @@
+.body{
+    background-color: purple;
+    margin: 0;
+
+}
+.stilo1 {
+    background-color: yellow;
+    font: size 30px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    border: 3px dashed red;
+    padding: 10px;
+
+}
+
+.cabeceras {
+    color: blue;
+}
+.div{
+    position: sticky; bottom: 0px;
+    background-color: tomato;
+}
